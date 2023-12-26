@@ -1,0 +1,1 @@
+C:\Users\danpo\source\repos\KvapConvertor\KvapConvertor\KvapConvertor.csproj;x64
